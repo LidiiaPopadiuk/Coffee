@@ -7,13 +7,13 @@ body {
 }
 
 header a {
-   font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 17px;
-
-color: #ff9595;
-}
+    font-style: normal;
+ font-weight: 400;
+ font-size: 12px;
+ line-height: 17px;
+ 
+ color: #ff9595;
+ }
 
 h1 {
     font-style: normal;
@@ -31,4 +31,63 @@ font-size: 24px;
 line-height: 35px;
 
 color: #ff9595;
+}
+
+button {
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+
+color: #ff9595;
+}
+
+h3 {
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.text {
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+}
+
+.header {
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+}
+
+p {
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+}
+
+footer a {
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+
+color: #000000
 }
